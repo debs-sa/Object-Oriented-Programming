@@ -1,0 +1,15 @@
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\bin\Debug\net6.0\Inheritance_ex1.exe
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\bin\Debug\net6.0\Inheritance_ex1.deps.json
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\bin\Debug\net6.0\Inheritance_ex1.runtimeconfig.json
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\bin\Debug\net6.0\Inheritance_ex1.dll
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\bin\Debug\net6.0\Inheritance_ex1.pdb
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\obj\Debug\net6.0\Inheritance_ex1.csproj.AssemblyReference.cache
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\obj\Debug\net6.0\Inheritance_ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\obj\Debug\net6.0\Inheritance_ex1.AssemblyInfoInputs.cache
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\obj\Debug\net6.0\Inheritance_ex1.AssemblyInfo.cs
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\obj\Debug\net6.0\Inheritance_ex1.csproj.CoreCompileInputs.cache
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\obj\Debug\net6.0\Inheritance_ex1.dll
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\obj\Debug\net6.0\refint\Inheritance_ex1.dll
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\obj\Debug\net6.0\Inheritance_ex1.pdb
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\obj\Debug\net6.0\Inheritance_ex1.genruntimeconfig.cache
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\OOP\Inheritance_ex1\Inheritance_ex1\obj\Debug\net6.0\ref\Inheritance_ex1.dll
